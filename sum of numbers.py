@@ -1,3 +1,4 @@
+punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
 def sum(numbers):
     total=0
     for x in numbers:
